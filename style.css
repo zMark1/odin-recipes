@@ -1,0 +1,27 @@
+*{
+    font-family: sans-serif;
+}
+.header{
+    color: rgb(236, 234, 234);
+    text-align: center;
+    background-color: rgb(5, 73, 73);
+}
+
+.main{
+    font-size: 50px;   
+    }
+
+ul{
+    list-style-type: none;
+    word-spacing: 2px;
+    
+}
+.link{
+   font-size: 30px;
+
+}
+.large-image{
+    height: 250px;
+    width: auto;
+}
+
